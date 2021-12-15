@@ -243,10 +243,10 @@ a:hover {
 .btn-outline-sm {
 	display: inline-block;
 	padding: 1rem 1.5rem 1rem 1.5rem;
-	border: 1px solid #f25c05;
+	border: 1px solid #ffffff;
 	border-radius: 30px;
 	background-color: transparent;
-	color: #f25c05;
+	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0;
@@ -255,7 +255,7 @@ a:hover {
 }
 
 .btn-outline-sm:hover {
-	background-color: #f25c05;
+	background-color: #ffffff;
 	color: #ffffff;
 	text-decoration: none;
 }
@@ -1041,7 +1041,7 @@ a:hover {
 .ex-header {
 	padding-top: 9rem;
 	padding-bottom: 5rem;
-	background-color: #fff2dc;
+	background-color: #FF3340;
 }
 
 .ex-basic-1 .list-unstyled .fas {
